@@ -1,1 +1,1 @@
-# elanco
+This is a project I had to build for a company called Elanco. Elanco asked me to create an interface based off RESTFUL APIs. I decided to use replit as I had university work to prioritize and replit is very lightweight and easy to use. I coded this UI in PHP, HTML, CSS as I was familiar with these languages as oppossed to others.
